@@ -58,5 +58,5 @@ Hoy busco nuevos desafíos donde pueda unir mis dos motores: **la tecnología y 
 
 ## 📊 Current Projects
 
-![24Studio](https://24studio.net/)
-![Teams Improve](https://auth-app-demo-delta.vercel.app/login)
+- **24Studio:** https://24studio.net
+- **Teams Improve:** https://auth-app-demo-delta.vercel.app
