@@ -56,7 +56,7 @@ Hoy busco nuevos desafíos donde pueda unir mis dos motores: **la tecnología y 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Current Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=music1991&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=music1991&layout=compact&theme=dark)
+![24Studio](https://24studio.net/)
+![Teams Improve](https://auth-app-demo-delta.vercel.app/login)
